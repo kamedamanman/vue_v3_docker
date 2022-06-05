@@ -18,5 +18,11 @@ docker-compose exec web /bin/sh
 webのコンテナから
 
 ```bash
-vue create first-app（アプリの名前）
+vue create first-app（first-appはアプリの名前）
+cd first-app
+yarn serve
 ```
+
+## 3.スタートページの確認
+
+http://localhost:8080/ 
