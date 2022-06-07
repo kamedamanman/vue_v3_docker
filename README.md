@@ -2,9 +2,9 @@
 
 Dockerでvue3の開発環境をつくるためのリポジトリ
 
-## 1. Docker install
+## 1. DockerDesktop install
 
-[公式より](https://matsuand.github.io/docs.docker.jp.onthefly/get-docker/)
+[installはこちら](https://matsuand.github.io/docs.docker.jp.onthefly/get-docker/)
 
 ## 2. コンテナ起動
 
@@ -25,4 +25,12 @@ yarn serve
 
 ## 3.スタートページの確認
 
-http://localhost:8080/ 
+[http://localhost:8080/](http://localhost:8080/)
+
+### 参考
+
+[Docker日本語ドキュメント](http://docs.docker.jp/)
+
+[Docker compose](http://docs.docker.jp/compose/toc.html)
+
+[Vue 3 日本語ドキュメント](https://v3.ja.vuejs.org/guide/introduction.html)
